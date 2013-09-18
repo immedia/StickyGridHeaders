@@ -22,3 +22,6 @@ Screenshots
 target/
 gen-external-apklibs/
 
+Example/build
+Library/build
+.gradle
